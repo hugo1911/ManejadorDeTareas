@@ -11,7 +11,7 @@ import SwiftUI
 struct ManejadorDeTareasApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Tareas()
         }
     }
 }
